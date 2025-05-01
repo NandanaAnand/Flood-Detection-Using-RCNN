@@ -61,17 +61,24 @@ Summary Flowchart
 
 
 [ Raw Images & Masks ]
+
           ↓
 [ Data Loading & Preprocessing ]
+
           ↓
 [ Model Definition & Training ]
+
           ↓
 [ Save Trained Model (.keras) ]
+
           ↓
 [ Test on Image or Webcam ]
+
           ↓
 [ Real-time Monitoring via Webcam ]
+
           ↓
 [ Water Level Detected? ]
+
           ↓
 [ Threshold Crossed? ] ── Yes ──► [ Send SMS via Twilio ]
